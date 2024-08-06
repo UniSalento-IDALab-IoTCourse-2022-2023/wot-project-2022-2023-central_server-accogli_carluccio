@@ -11,7 +11,7 @@ The system architecture is outlined below:
 ![alt text](images/image.png)
 
 The developed components are:
-* 🟡(this repo) <b>the central server </b> 
+* 🟡(this integration repository) <b>the central server </b> 
 * the machinery controller board\
 https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-controller_board-accogli_carluccio.git
 * android application\
