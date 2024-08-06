@@ -1,0 +1,9 @@
+[submodule "wotProject22-23-loginMS"]
+	path = wotProject22-23-loginMS
+	url = https://github.com/carmineaccogli/wotProject22-23-loginMS.git
+[submodule "wotProject22-23-constructionSiteMS"]
+	path = wotProject22-23-constructionSiteMS
+	url = https://github.com/carmineaccogli/wotProject22-23-constructionSiteMS.git
+[submodule "wotProject22-23-alarmsMS"]
+	path = wotProject22-23-alarmsMS
+	url = https://github.com/carmineaccogli/wotProject22-23-alarmsMS.git
